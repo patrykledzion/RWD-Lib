@@ -1,0 +1,36 @@
+#r1d1
+{
+    background-color: red;
+    height: 150px;
+}
+
+#r1d2
+{
+    background-color: green;
+    height: 150px;
+}
+
+#r2d1
+{
+    background-color: cornflowerblue;
+    height: var(--width);
+    --margin-left: 5px;
+    --margin-right: 5px;
+    
+}
+
+#r2d2
+{
+    background-color: blue;
+    height: 150px;
+    --margin-left: 5px;
+    --margin-right: 5px;
+}
+
+#r2d3
+{
+    background-color: orange;
+    height: 150px;
+    --margin-left: 5px;
+    --margin-right: 5px;
+}
